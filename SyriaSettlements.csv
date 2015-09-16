@@ -1,10 +1,6 @@
 name,country,region,EN,FR,AR,module_name,url,value,updated_at,latitude,longitude,instance_id
 Domiz 2 Camp,Iraq,Duhok,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=266&country=103&region=63,6345,2015-09-13 00:00:00,36.764350000,42.896030000,syria
 Kirkuk Non-Camp Refugees,Iraq,Kirkuk,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,781,2015-09-13 00:00:00,35.466700000,44.316700000,syria
-Islahiye,Turkey,Gaziantep,,36.986770000,36.616805000,syria
-Saricam,Turkey,Adana,,0.000000000,0.000000000,syria
-Nizip 1 Tent Camp,Turkey,Gaziantep,,37.793079000,37.009258000,syria
-Lebanon,Lebanon,Lebanon,,33.824794000,35.826416000,syria
 Camp-based Refugees,Turkey,Turkey,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,259523,2015-06-15 10:29:45,37.177826000,38.781738000,syria
 Amman,Jordan,Amman Governorate,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,168309,2015-09-06 00:00:00,31.949722000,35.932778000,syria
 Irbid,Jordan,Irbid Governorate,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=175&country=107&region=74,140525,2015-09-06 00:00:00,32.555560000,35.850000000,syria
@@ -38,11 +34,9 @@ Refugees Dispersed in Iraq,Iraq,Refugees Dispersed in Iraq ,Registered Syrian Re
 Bekaa,Lebanon,Bekaa,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=201&country=122&region=90,390727,2015-08-25 08:23:08,33.831051000,35.914856000,syria
 Egypt,Egypt,Egypt,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,132375,2015-07-05 12:44:23,30.044419600,31.235711600,syria
 Sulaymaniyah Non-Camp,Iraq,Sulaymaniyah,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=152&country=103&region=64,23178,2015-09-13 00:00:00,35.551354000,45.442406000,syria
-Karkamis,Turkey,Gaziantep,,37.998601000,36.833107000,syria
 Dispersed in Jordan,Jordan,Dispersed in Jordan,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,16403,2015-09-06 00:00:00,31.949381000,35.932911000,syria
 Erbil Non-Camp,Iraq,Erbil,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=151&country=103&region=65,81946,2015-09-13 00:00:00,36.191110000,44.009100000,syria
 South Lebanon,Lebanon,South Lebanon,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=204&country=122&region=89,128464,2015-08-25 08:31:40,33.267398000,35.204315000,syria
 Urban Refugees,Turkey,Turkey,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,1679476,2015-08-25 09:31:30,37.059561000,37.380982000,syria
 North Lebanon,Lebanon,North Lebanon,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=203&country=122&region=87,266246,2015-08-25 08:28:56,34.435797000,35.825729000,syria
 Beirut,Lebanon,Beirut,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=202&country=122&region=88,328504,2015-08-25 08:20:02,33.886944000,35.513056000,syria
-Nizip 2 Container City,Turkey,Gaziantep,,37.066684000,37.814255000,syria
