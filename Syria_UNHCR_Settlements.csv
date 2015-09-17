@@ -39,17 +39,3 @@ Bekaa,Lebanon,Bekaa,Registered Syrian Refugees,Réfugiés syriens enregistrés,�
 Egypt,Egypt,Egypt,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,132375,2015-07-05 12:44:23,30.044419600,31.235711600,Syria
 Sulaymaniyah Non-Camp,Iraq,Sulaymaniyah,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=152&country=103&region=64,23178,2015-09-13 00:00:00,35.551354000,45.442406000,syria
 Dispersed in Jordan,Jordan,Dispersed in Jordan,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,,Total Population & Demography,16049,2015-09-17 00:00:00,31.949381000,35.932911000,syria
-
-
-2015-08-25 09:31:30
-2015-09-13 00:00:00
-2015-09-17 00:00:00
-2015-09-17 00:00:00
-
-https://docs.google.com/spreadsheets/d/1jFU1aDo-RgETyE7UvQOWghlNhGBcPWvEFOwPnocLvFw/pub?gid=734072124&single=true&output=csv
-https://docs.google.com/spreadsheets/d/1jFU1aDo-RgETyE7UvQOWghlNhGBcPWvEFOwPnocLvFw/pub?gid=734072124&single=true&output=csv
-
-<font color="#cc0000" size="3" style="font-weight: bold;">{value_1} Syrians</font><br /><font size="1.5"><font color="#696969">have fled their country and are currently </font><b><a href="http://www.unhcr.org/pages/49c3646c11c.html" target="_blank">refugees or asylum seekers.<br /><br /></a></b></font><p style="color:#696969;font-size:10px;font-style:italic"><i>updated: {updated_at_2}</i></p>
-<font color="#b22222" size="3"><b>{name}</b></font><font color="#b22222" size="3"><b>: </b></font><font color="#2f4f4f" size="3"><b>{value_1}</b></font><br /><font color="#696969">Syrian refugees reside in {name}</font><br /><br /><p style="color:#696969;font-size:10px;font-style:italic"><i>updated: {updated_at_2}</i></p>
-
-
