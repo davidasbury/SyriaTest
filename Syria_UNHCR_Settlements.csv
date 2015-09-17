@@ -1,5 +1,5 @@
 name,country,region,EN,FR,AR,module_name,url,value,updated_at,latitude,longitude,instance_id
-Domiz 2 Camp,Iraq,Duhok,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=266&country=103&region=63,6345,2015-09-13 00:00:00,36.764350000,42.896030000,syria
+Domiz 2 Camp,Iraq,Duhok,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=266&country=103&region=63,6345,2015-09-13 01:00:00,36.764350000,42.896030000,syria
 Kirkuk Non-Camp Refugees,Iraq,Kirkuk,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,781,2015-09-13 00:00:00,35.466700000,44.316700000,syria
 Camp-based Refugees,Turkey,Turkey,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,259523,2015-06-15 10:29:45,37.177826000,38.781738000,syria
 Amman,Jordan,Amman Governorate,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,168406,2015-09-17 00:00:00,31.949722000,35.932778000,syria
