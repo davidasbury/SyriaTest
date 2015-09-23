@@ -1,4 +1,5 @@
 name,country,region,EN,FR,AR,module_name,url,value,updated_at,latitude,longitude,instance_id
+Al-Obaidi Camp,Iraq,Anbar,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=260&country=103&region=85,1519,2015-09-13 00:00:00,34.357235000,41.129200000,syria
 Camp-based Refugees,Turkey,Turkey,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,259523,2015-06-15 10:29:45,37.177826000,38.781738000,syria
 Amman,Jordan,Amman Governorate,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,,168406,2015-09-17 00:00:00,31.949722000,35.932778000,syria
 Irbid,Jordan,Irbid Governorate,Registered Syrian Refugees,Réfugiés syriens enregistrés,اللاجئون السوريون المسجلون,Total Population & Demography,http://data.unhcr.org/syrianrefugees/settlement.php?id=175&country=107&region=74,140273,2015-09-17 00:00:00,32.555560000,35.850000000,syria
